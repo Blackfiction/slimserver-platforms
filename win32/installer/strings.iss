@@ -827,7 +827,7 @@ MigrateToWin64=You seem to be running Windows 64-bit. %n%nWe recommend you insta
 da.MigrateToWin64=Det ser ud til at du kører Windows 64-bit. %n%nVi anbefaler at du installerer 64-bit versionen af Lyrion Music Server. %n%nTryk "Yes" for mere information,  %n"No" for at fortsætte, eller %n "Cancel" for at afbryde installionen.
 de.MigrateToWin64=Sie scheinen Windows 64-bit zu verwenden. %n%nWir empfehlen, Lyrion Music Server 64-bit zu installieren. %n%nDrücken Sie "Ja" für weitere Informationen, %n"Nein" um die Installation weiter zu führen oder %n"Abbrechen" um die Installation abzubrechen.
 fr.MigrateToWin64=Vous semblez utiliser Windows 64-bit. %n%nNous vous recommandons d'installer la version 64-bits de Lyrion Music Server. %n%nAppuyez sur « Oui » pour obtenir plus d'informations, %nsur « Non » pour continuer, ou %nsur « Annuler » pour interrompre l'installation.
-nl.MigrateToWin64=Het lijkt erop dat je Windows 64-bits gebruikt. %n%nWij raden je aan de 64-bits versie van Lyrion Music Server te installeren. %n%nDruk op "Yes" voor meer informatie, %n"No" om door te gaan, of %n"Cancel" om de installatie af te breken.
+nl.MigrateToWin64=Het lijkt erop dat je Windows 64-bit gebruikt. %n%nWij raden je aan de 64-bit versie van Lyrion Music Server te installeren. %n%nDruk op "Yes" voor meer informatie, %n"No" om door te gaan, of %n"Cancel" om de installatie af te breken.
 
 MigrateToWin64InfoUrl=https://lyrion.org/reference/migrate-win32-win64/
 de.MigrateToWin64InfoUrl=https://lyrion.org/reference/migrate-win32-win64-de/
